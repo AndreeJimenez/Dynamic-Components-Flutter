@@ -1,0 +1,15 @@
+{
+  "nombreApp": "componentes",
+  "rutas2": [
+    {
+      "ruta": "Dieguito",
+      "texto": "Otaku uwu",
+      "icon": "star"
+    },
+    {
+      "ruta": "Andree",
+      "texto": "Otaku 2.0 uwu",
+      "icon": "account_balance"
+    }
+  ]
+}
